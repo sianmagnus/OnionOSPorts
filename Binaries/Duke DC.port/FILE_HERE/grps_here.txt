@@ -1,0 +1,4 @@
+can be found from steam version
+requires both as shown
+duke3d.grp
+dukedc.grp

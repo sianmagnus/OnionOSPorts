@@ -1,0 +1,42 @@
+ runtime  src| 
+ 0.0874s INFO| Started at 2022-12-21 23:21:38.714
+ 0.0926s INFO| EDuke32 r13194-86a54ff8c
+ 0.0927s INFO| Built May  3 2022 06:34:35, GCC 8.3.0, 32-bit
+ 0.0939s INFO| Application parameters: ./FILE_HERE/duke3d.grp ./FILE_HERE/vacation.grp 
+ 0.0940s INFO| Using directory /mnt/SDCARD/Roms/PORTS/Binaries/D3D Vacation.port/
+ 0.2561s INFO| Searching for game data...
+ 0.2611s  ERR| Found no recognized game data!
+ 0.2624s INFO| Using ./FILE_HERE/vacation.grp as main data file.
+ 0.2648s INFO| Loaded ./FILE_HERE/duke3d.grp
+ 0.2649s INFO| Loaded ./FILE_HERE/vacation.grp
+ 0.3860s  CON| Compiling: GAME.CON (98716 bytes)
+ 0.4026s  CON| Including: DEFS.CON (36087 bytes)
+ 0.4113s  CON| Including: USER.CON (45647 bytes)
+ 0.4196s WARN| USER.CON:844: overwriting existing definition for sound #261 (hydro43.voc)
+ 0.4211s  CON| Including: SOUNDS.CON (5192 bytes)
+ 0.4234s  CON| Including: BEACHBAL.CON (2144 bytes)
+ 0.4288s  CON| Including: SEAGULL.CON (2149 bytes)
+ 0.4298s  CON| GAME.CON: In actor 'AMMO':
+ 0.4299s WARN| GAME.CON:918: expected state, found actor or define.
+ 0.4343s  CON| GAME.CON: In actor 'ORGANTIC':
+ 0.4344s WARN| GAME.CON:1923: found 'else' with no 'if'
+ 0.4384s  CON| GAME.CON: In state 'pigshootenemystate':
+ 0.4385s WARN| GAME.CON:2819: found 'else' with no 'if'
+ 0.4431s  CON| Including: DRAGON.CON (6018 bytes)
+ 0.4455s  CON| Including: BEACHBTH.CON (3052 bytes)
+ 0.4471s  CON| Including: BEACHBAB.CON (5273 bytes)
+ 0.4487s WARN| Found 4 warning(s), 0 error(s).
+ 0.4713s  CON| Compiled 56480 bytes in 81ms
+ 1.1345s INFO| Initialized 96.0M cache
+ 2.9175s INFO| Initializing console...
+ 2.9701s INPT| No game controllers found.
+ 2.9759s INFO| Executing settings.cfg
+ 2.9886s  ASS| Initializing Apogee Sound System
+ 3.0144s  ASS| Using SDL miao driver
+ 3.0145s  ASS| SDL miao driver
+ 3.0149s  ASS| Initialized sound at 48.0 KHz stereo with 64 voices
+ 3.0153s  ASS| Initializing MIDI driver: AdLib OPL3 emulation
+17.3728s INFO| Cache time: 481ms.
+17.3877s INFO| E3L1: CARIBBEAN CATASTROPHE
+31.1152s INFO| Wrote eduke32.cfg
+31.1166s INFO| Wrote settings.cfg

@@ -1,0 +1,7 @@
+can be found from steam version
+as shown
+duke3d.grp
+nwinter.grp
+nwactor.con
+nwdes.con
+nwinter.con
